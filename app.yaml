@@ -1,6 +1,6 @@
 kind: wasmer.io/App.v0
-name: wordpress
-owner: wasmer-examples
+name: dopefitsph-wordpress
+owner: mikeynoodledoo
 package: .
 volumes:
   - name: wp-content
